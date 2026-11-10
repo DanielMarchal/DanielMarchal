@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there, I'm DanielMarchal 👋
+## I am a second-year student DAM and i love the videogames
 <!--
 **DanielMarchal/DanielMarchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
